@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.gradle
+.build/
+**/build/
+local.properties
+google-services.json
+*.kotlin_module
+.DS_Store
+Thumbs.db
